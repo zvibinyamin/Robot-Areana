@@ -51,6 +51,6 @@ See the LOG file link: https://github.com/AkivaGubbay/Ex3/tree/master/Performanc
 
 
 
-Daniel Fuchs , Sapir Ankri , Akiva Gubbay and Zvika Binyamin.
+Zvika Binyamin, Daniel Fuchs , Akiva Gubbay and Sapir Ankri.
 
 
