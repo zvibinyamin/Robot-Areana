@@ -45,7 +45,7 @@ As can be seen in comparing performance we did, over time the robot correctly gu
 <p align="center">
   <img src="https://github.com/zvibinyamin/Robot-Areana/blob/master/pictures/Image4.jpg?raw=true" width="800"/>
 </p>
-See the LOG file link: https://github.com/AkivaGubbay/Ex3/tree/master/PerformanceComparison
+See the LOG file link: https://github.com/zvibinyamin/Robot-Areana/tree/master/PerformanceComparison
 
 
 
